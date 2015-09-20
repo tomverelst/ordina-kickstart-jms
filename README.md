@@ -3,4 +3,4 @@ Ordina Kickstart JMS Exercises
 
 ## Requirements
 * Java 8
-* GitHub account (optional). You can download the exercises as a ZIP.
+* Git and a GitHub account (optional). You can download the exercises as a ZIP.
