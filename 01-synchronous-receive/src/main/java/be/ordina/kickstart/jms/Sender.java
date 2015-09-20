@@ -37,7 +37,7 @@ public class Sender {
                 // TODO Send the message using the producer
             }
         } catch (JMSException ex) {
-            LOG.error("JMS exception occured", ex);
+            LOG.error("JMS exception occurred", ex);
         }
     }
 
